@@ -9,7 +9,7 @@ The purpose is to get a list of valid urls that match a given query from epa.gov
 
 The go language is not necessary to run the tool, a compiled binary is attached
 
-1. If you're not running os x, you'll need to compile the code. First make sure you've downloaded the [Go Programming languge][golang.org/download] and run `go build` from the epa_search_urls directory.
+1. If you're not running os x, you'll need to compile the code. First make sure you've downloaded the [Go Programming language](http://golang.org/download) and run `go build` from the epa_search_urls directory.
 2. Edit queries.csv, placing a query on each line.
 3. using the command line, run:
 	`./epa_search_urls`
