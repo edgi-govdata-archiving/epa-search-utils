@@ -22,6 +22,7 @@ For windows users:
 	or  `go run main.go`
 3. Wait for the tool to finish scraping.
 
+
 Once finished, a series of csv files representing each page will be in the *results* directory, and a combined file of *all* results will be created at
 
 
